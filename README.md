@@ -18,5 +18,6 @@ when building the transformer, these layers must be accounted for before one can
 
 ## Note
 Knowledge on how each layer works is crucial in understanding how the transformer works generally, so with the above listed one can
-take them one by one, learn each from the code implementation posted the add all together. Also, this is just the general blueprint
-of the transformer so if we want to process a text file a different module for learning how to do that would have to be looked up.
+take them one by one, learn each from the code implementation and the inputs and outputs of each layer of each part posted then add
+all together. Also, this is just the general blueprint of the transformer so if we want to process a text file a different module 
+for learning how to do that would have to be looked up.
